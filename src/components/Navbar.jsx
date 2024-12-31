@@ -50,7 +50,7 @@ function Navbar() {
                 >
                   <img
                     className="w-10 h-10 rounded-full border-2 border-white hover:border-green-300"
-                    src="/assets/profile.jpg"
+                    src="/Password__Manager/profile.jpg"
                     alt="user photo"
                   />
                   <span className="text-white hover:text-green-300">
