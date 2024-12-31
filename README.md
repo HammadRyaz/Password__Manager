@@ -26,7 +26,7 @@ To set up this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/password-manager.git
+    gh repo clone HammadRyaz/Password__Manager
     ```
 
 2. Navigate to the project directory:
