@@ -50,7 +50,7 @@ function Heading() {
               rel="noopener noreferrer"
             >
               <img
-                src="/Password__Manager/icons8-behance-50.png"
+                src="/Password__Manager/assets/icons8-behance-50.png"
                 alt="Behance"
                 className="w-12 h-12 animate-pulse"
               />
@@ -61,7 +61,7 @@ function Heading() {
               rel="noopener noreferrer"
             >
               <img
-                src="/Password__Manager/icons8-github.gif"
+                src="/Password__Manager/assets/icons8-github.gif"
                 alt="GitHub"
                 className="w-12 h-12"
               />
@@ -72,7 +72,7 @@ function Heading() {
               rel="noopener noreferrer"
             >
               <img
-                src="/Password__Manager/icons8-instagram.gif"
+                src="/Password__Manager/assets/icons8-instagram.gif"
                 alt="Instagram"
                 className="w-12 h-12"
               />

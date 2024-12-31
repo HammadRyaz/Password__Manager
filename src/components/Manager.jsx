@@ -43,10 +43,10 @@ function Manager() {
   const handleVisiblePassword = (e) => {
     if (passRefVisible.current.passInput.type === "password") {
       passRefVisible.current.passInput.type = "text";
-      passRefVisible.current.passIcon.src = "/Password__Manager/eye.png";
+      passRefVisible.current.passIcon.src = "/Password__Manager/assets/eye.png";
     } else {
       passRefVisible.current.passInput.type = "password";
-      passRefVisible.current.passIcon.src = "/Password__Manager/eyecross.png";
+      passRefVisible.current.passIcon.src = "/Password__Manager/assets/eyecross.png";
     }
   };
 
@@ -346,7 +346,7 @@ function Manager() {
                       </label>
                       <div className="relative">
                         <img
-                          src="/Password__Manager/eyecross.png"
+                          src="/Password__Manager/assets/eyecross.png"
                           alt="Password Icon"
                           className="absolute right-4 top-1/2 transform -translate-y-1/2 w-6 h-6"
                           onClick={handleVisiblePassword}
